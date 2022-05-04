@@ -1,0 +1,21 @@
+[submodule "modules/client"]
+	path = modules/client
+	url = git@github.com:Pupiil/client.git
+[submodule "modules/server"]
+	path = modules/server
+	url = git@github.com:Pupiil/server.git
+[submodule "modules/key"]
+	path = modules/key
+	url = git@github.com:Pupiil/key.git
+[submodule "modules/common"]
+	path = modules/common
+	url = git@github.com:Pupiil/common.git
+[submodule "modules/view"]
+	path = modules/view
+	url = git@github.com:Pupiil/view.git
+[submodule "modules/recognition"]
+	path = modules/recognition
+	url = git@github.com:Pupiil/recognition.git
+[submodule "modules/data"]
+	path = modules/data
+	url = git@github.com:Pupiil/data.git
